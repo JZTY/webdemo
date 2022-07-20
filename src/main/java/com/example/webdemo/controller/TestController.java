@@ -15,7 +15,7 @@ public class TestController {
     @RequestMapping("/hello")
     @ResponseBody
     public String test(){
-        return "hello"+"test"+"test3"+"自动构建";
+        return "hello"+"test"+"test3"+"自动构建"+"888";
     }
 
 
