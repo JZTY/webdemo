@@ -15,7 +15,7 @@ public class TestController {
     @RequestMapping("/hello")
     @ResponseBody
     public String test(){
-        return "ppj9999";
+        return "ppj不挂起";
     }
 
 
